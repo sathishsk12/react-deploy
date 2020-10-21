@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.559a7b9d.chunk.css",
+    "main.js": "/react-deploy/static/js/main.b6c9c913.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.b6c9c913.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.3fbfa92b.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.3fbfa92b.js.map",
+    "static/js/2.ca42dc3b.chunk.js": "/react-deploy/static/js/2.ca42dc3b.chunk.js",
+    "static/js/2.ca42dc3b.chunk.js.map": "/react-deploy/static/js/2.ca42dc3b.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.8d3ceb7674730b31e40a53d89574972f.js": "/react-deploy/precache-manifest.8d3ceb7674730b31e40a53d89574972f.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/main.559a7b9d.chunk.css.map": "/react-deploy/static/css/main.559a7b9d.chunk.css.map",
+    "static/js/2.ca42dc3b.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.ca42dc3b.chunk.js.LICENSE.txt",
+    "static/media/Music App.jpg": "/react-deploy/static/media/Music App.cf60ec56.jpg",
+    "static/media/dribble.png": "/react-deploy/static/media/dribble.1c4908ac.png",
+    "static/media/github.png": "/react-deploy/static/media/github.d19bbdb4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fbfa92b.js",
+    "static/js/2.ca42dc3b.chunk.js",
+    "static/css/main.559a7b9d.chunk.css",
+    "static/js/main.b6c9c913.chunk.js"
+  ]
+}
